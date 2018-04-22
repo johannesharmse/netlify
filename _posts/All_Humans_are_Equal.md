@@ -17,7 +17,7 @@ From a citizen's perspective, one might ask why we need to distinguish between p
 
 However, as data scientists we should ask the question of where do we draw the line? If we take the hypothetical scenario of police using facial recognition software to identify potential criminals in public spaces, would it be considered discriminating if bias is given towards people of darker skin colour? Crime statistics may indicate that criminals are more likely to be black in certain countries, but that does not mean that all criminals are black.
 
-![http://austelagencies.com/files/2018/01/facial-recognition-crowd-image-www.intelagencies.com_.jpg](images/crowd.jpg)
+![http://austelagencies.com/files/2018/01/facial-recognition-crowd-image-www.intelagencies.com_.jpg](img/crowd.jpg)
 
 Another example to consider is the process of granting loans. If a data scientist can prove that a model can predict with an accuracy score of 98% whether an individual will be able to pay back the loan, should we implement this model? What if the highest weighted feature for this model is the neighbourhood that the individual is from? Neighbourhood may be strongly correlated with financial status, but if it isn't perfectly correlated, this model can be considered discriminating. People can be disadvantaged greatly based on an algorithm that groups people by neighbourhood.
 
